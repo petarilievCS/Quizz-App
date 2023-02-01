@@ -1,16 +1,8 @@
-# quiz_app
+# Quiz App
 
-Flutter application that lets the user play a simple trivia quiz.
+Simple cross-platform application that let's the user play a trivia quiz and counts their score. The application was developed using Dart and Flutter.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/90746623/215918298-0ab906dd-fd66-4230-a575-658b6c268b09.png" width="296" height="527"/><img src="https://user-images.githubusercontent.com/90746623/215918292-89982a99-b460-4862-823c-52768de789b8.png" width="296" height="527"/> <img src="https://user-images.githubusercontent.com/90746623/215918296-8872b078-1d39-447a-87f7-59a43f754022.png" width="296" height="527"/> 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
